@@ -1,0 +1,9 @@
+{
+  "stryker-config": {
+    "solution": "../BikeDistributor.sln",
+    "reporters": [
+      "progress",
+      "html"
+    ]
+  }
+}
