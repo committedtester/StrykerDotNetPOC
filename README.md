@@ -7,10 +7,11 @@ Key requirements were
 Repository selected was https://github.com/ichensky/BikeDistributor 
 
 Note: I have made modifications so that the solution will build and the tests will pass. 
-A perfect candidate for incomplete unit test coverage.
+(A perfect candidate for incomplete unit test coverage).
 
 # Approach
-Load the solution, build and load the test explorer. Stryker is already installed in the test project.
+Load the solution, build and load the test explorer to see what is available. 
+Stryker is already installed in the test project.
 
 Within your command line navigate to
 BikeDistributor.Test
